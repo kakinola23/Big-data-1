@@ -1,0 +1,15 @@
+FirstJob
+"chars" 7291
+"lines" 19
+"words" 1087
+
+
+SecondJob output
+27      "in"
+
+
+ThirdJob output
+11      "cursus"
+
+FourthJob output
+20      "vitae"

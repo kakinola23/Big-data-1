@@ -1,0 +1,25 @@
+WARN: This is a naive implementation of ALS and is given as an
+      example. Please use pyspark.ml.recommendation.ALS for more
+      conventional use.
+Running ALS with M=100, U=500, F=10, iters=5, partitions=2
+
+Iteration 0:
+
+RMSE: 0.2229
+
+Iteration 1:
+
+RMSE: 0.0731
+
+Iteration 2:
+
+RMSE: 0.0317
+
+Iteration 3:
+
+RMSE: 0.0315
+
+Iteration 4:
+
+RMSE: 0.0315
+
